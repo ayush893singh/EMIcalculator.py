@@ -113,4 +113,4 @@ A simple Python EMI Calculator that calculates monthly loan installments using l
 ---
 
 ## Author
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh

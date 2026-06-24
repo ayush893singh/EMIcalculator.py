@@ -4,7 +4,7 @@ A simple Python project that calculates the monthly EMI (Equated Monthly Install
 
 ---
 
-Features
+# Features
 
 - Calculate monthly EMI instantly
 - Supports any loan amount
@@ -14,7 +14,7 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Python
 
@@ -32,21 +32,14 @@ This project uses:
 
 ---
 
-Installation
-
+# Installation
 1. Install Python on your computer.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
 
 ---
 
-How to Run
-
-python main.py
-
----
-
-How It Works
+# How It Works
 
 1. User enters the loan amount.
 2. User enters the annual interest rate.
@@ -56,7 +49,7 @@ How It Works
 
 ---
 
-Formula Used
+# Formula Used
 
 Monthly EMI is calculated using the standard EMI formula:
 
@@ -70,7 +63,7 @@ Where:
 
 ---
 
-Example Output
+# Example Output
 
 ===== EMI Calculator =====
 
@@ -81,31 +74,6 @@ Enter loan period (years): 5
 Monthly EMI = ₹10138.2
 
 ---
-
-Project Structure
-
-EMI-Calculator/
-│
-├── main.py
-└── README.md
-
----
-
-Future Improvements
-
-- Total interest calculation
-- Total repayment amount
-- Loan comparison feature
-- Home Loan and Car Loan options
-- GUI version using Tkinter
-
----
-
-Repository Name
-
-emi-calculator-python
-
-
 ## Repository Description
 
 A simple Python EMI Calculator that calculates monthly loan installments using loan amount, interest rate, and loan duration.

@@ -20,7 +20,7 @@ A simple Python project that calculates the monthly EMI (Equated Monthly Install
 
 ---
 
-Concepts Used
+# Concepts Used
 
 This project uses:
 
